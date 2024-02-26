@@ -24,7 +24,7 @@ The setup is primarily handled by the system generator. Follow these steps to pr
 ### Deploy the Coordinator Contract
 
 1. **Deploy the `CoordinatorContract` contract.**
-    - This contract orchestrates the federated learning process.
+    - This contract orchestrates the entire process.
 
 2. **Whitelist Organizations**
     - Organizations must provide their public key (also known as blockchain wallet address) to be whitelisted.
