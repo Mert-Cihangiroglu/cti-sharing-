@@ -1,6 +1,6 @@
 # Project Title
 
-Brief project description here. 
+CTI SHARING Using Swarm learning and zero knowledge proofs.
 
 ## Table of Contents
 
