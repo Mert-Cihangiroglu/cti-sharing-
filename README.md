@@ -78,22 +78,4 @@ Follow these steps to generate and deploy verifier contracts:
     - Ensure you have `network.onnx`, `input.json`, and the SRS file ready.
     - Follow the provided commands to generate settings, compile the circuit, and deploy the Solidity verifier contract.
 
-## Requirements
 
-List of software and library requirements.
-
-## Installation
-
-Steps to install the project.
-
-## Usage
-
-Instructions on how to use the system once set up.
-
-## Contributing
-
-Guidelines for contributing to the project.
-
-## License
-
-License information.
